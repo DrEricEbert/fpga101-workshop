@@ -1,4 +1,5 @@
 # FPGA 101 - Workshop materials
+https://hackaday.io/project/158275/gallery#a7a9328500ce021ad5afd9af62694e4e
 
 This repo contains all needed material for participation at FPGA 101 Workshop at Hackaday event in Belgrade 26th of May 2018.
 
